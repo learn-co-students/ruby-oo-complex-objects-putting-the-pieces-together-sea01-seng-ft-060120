@@ -9,4 +9,3 @@ class Shoe
       @condition = "new"
     end
 end
-a = Shoe.new
