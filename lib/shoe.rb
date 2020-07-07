@@ -9,3 +9,7 @@ class Shoe
       @condition = "new"
     end
 end
+a = Shoe.new("Some brand")
+puts a.condition = "well"
+puts a.brand
+puts a.size = 9.5
